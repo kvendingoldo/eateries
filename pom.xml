@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.asharov.eateries</groupId>
-    <artifactId>eateries-super-pom</artifactId>
+    <groupId>com.asharov.yammy</groupId>
+    <artifactId>yammy-super-pom</artifactId>
     <name>Eating :: Parent</name>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
@@ -86,7 +86,7 @@
     </dependencyManagement>
 
     <modules>
-        <module>eateries-service</module>
+        <module>yammy-service</module>
     </modules>
 
 </project>
